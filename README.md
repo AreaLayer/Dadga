@@ -5,7 +5,7 @@
 
 Trade options on Liquid
 
-[Inspire by](https://blockstream.com/assets/downloads/pdf/options-whitepaper.pdf)
+[Inspire by Options whitepaper](https://blockstream.com/assets/downloads/pdf/options-whitepaper.pdf)
 
 # Features
 
