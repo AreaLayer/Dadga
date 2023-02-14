@@ -21,4 +21,4 @@ Trade options on Liquid
 
 # Product
 
-The product is development. Based on Liquid Network
+The product is in development. Based on Liquid Network
