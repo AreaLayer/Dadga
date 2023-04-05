@@ -15,7 +15,7 @@ Trade options on Liquid
 
 - [ ] Option Trade 
 
-- [ ] Testnet
+- [X] Testnet
 
 - [ ] Mainnet
 
